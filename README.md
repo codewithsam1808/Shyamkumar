@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shyamkumar4381
+- 👋 Hi, I’m @Peddamukkulollu shyamkumar.
 - 👀 I’m interested in machine learning .
 - 🌱 I’m currently learning web development .
 - 💞️ I’m looking to collaborate on top Companies like amazon microsoft google and some other companies
