@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Peddamukkulollu shyamkumar.
 - 👀 I’m interested in machine learning .
-- 🌱 I’m currently learning web development .
+- 🌱 I’m currently learning web development as long as python,MySQL,mongoDB,machine learning .
 - 💞️ I’m looking to collaborate on top Companies like amazon microsoft google and some other companies
 - 📫 How to reach me by mail(shyamkumar4381@gmail.com)
 - 😄 Pronouns: sam.
